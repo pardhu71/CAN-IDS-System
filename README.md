@@ -4,11 +4,6 @@ Physical-layer authentication for in-vehicle CAN networks using ESP32 and analog
 
 ---
 
-## System Architecture
-
-![System Architecture](Project_Files/ARCHITECTURE_IMAGE_.png)
-
-Green = Legitimate nodes | Red = Attacker node | Blue = Surveillance node | Yellow = CAN Bus lines
 
 ---
 
